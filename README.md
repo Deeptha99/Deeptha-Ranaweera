@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deeptha Ranaweera</h1>
 <h3 align="left">I have 2 year experience about programming languages, software development,<br> mobile app development, web development</h3>
 
-<img align="right" alt="coding" width="600" src="https://flutter.gskinner.com/vignettes/assets/04-hotreload.gif">
+<img align="right" alt="coding" width="500" src="https://flutter.gskinner.com/vignettes/assets/04-hotreload.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeptha99&label=Profile%20views&color=0e75b6&style=flat" alt="deeptha99" /> </p>
 
