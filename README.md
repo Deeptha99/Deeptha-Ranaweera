@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Deeptha Ranaweera</h1>
 <h3 align="left">I have 2 year experience about programming languages, software development,<br> mobile app development, web development</h3>
 
+<img align="right" alt="coding" width="600" src="https://flutter.gskinner.com/vignettes/assets/04-hotreload.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeptha99&label=Profile%20views&color=0e75b6&style=flat" alt="deeptha99" /> </p>
 
 <p align="left"> <a href="https://twitter.com/deeptha___" target="blank"><img src="https://img.shields.io/twitter/follow/deeptha___?logo=twitter&style=for-the-badge" alt="deeptha___" /></a> </p>
@@ -8,7 +10,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/deeptha___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deeptha___" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/deeptha ranaweera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deeptha ranaweera" height="30" width="40" /></a>
 <a href="https://fb.com/deeptha ranaweera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="deeptha ranaweera" height="30" width="40" /></a>
+<a href="https://instagram.com/deeptha_ranaweera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deeptha_ranaweera" height="30" width="40" /></a>
+<a href="http://www.youtube.com/@deeptharanaweera6690" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="deeptha ranaweera" height="30" width="40" /></a>
+<a href="https://discord.gg/Deeptha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Deeptha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages :</h3>
