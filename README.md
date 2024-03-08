@@ -27,6 +27,13 @@
     <img src="https://img.shields.io/badge/Visit%20me%20on-Fiverr-brightgreen?style=for-the-badge&logo=fiverr" alt="Visit me on Fiverr" />
   </a>
 </p>
+<p align="left">
+  <a href="https://www.freelancer.com/u/deeptharanaweera?frm=deeptharanaweera&sb=t" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20me%20on-Freelancer-blue?style=for-the-badge&logo=freelancer" alt="Visit me on Freelancer" />
+
+
+  </a>
+</p>
 
 
 <h3 align="left">Languages :</h3>
