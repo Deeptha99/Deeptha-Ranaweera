@@ -5,7 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeptha99&label=Profile%20views&color=0e75b6&style=flat" alt="deeptha99" /> </p>
 
-<p align="left"> <a href="https://twitter.com/deeptha___" target="blank"><img src="https://img.shields.io/twitter/follow/deeptha___?logo=twitter&style=for-the-badge" alt="deeptha___" /></a> </p>
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/deeptha-ranaweera-98b026203" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Connect with me on LinkedIn" />
+  </a> 
+</p>
+
 
 - 📫 How to reach me **deeptharanaweera26@gmail.com**
 
