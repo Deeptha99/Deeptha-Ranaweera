@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deeptha Ranaweera</h1>
-<h3 align="left">I have 2 year experience about programming languages, software development,<br> mobile app development, web development</h3>
+<h3 align="left">I have 2 year experience about programming languages, software development, mobile app development, web development</h3>
 
 <img align="right" alt="coding" width="500" src="https://flutter.gskinner.com/vignettes/assets/04-hotreload.gif">
 
