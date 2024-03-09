@@ -27,6 +27,7 @@
 <a href="https://discord.gg/Deeptha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Deeptha" height="30" width="40" /></a>
 </p>
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=deeptha99&show_icons=true&locale=en&layout=compact" alt="deeptha99" /></p>
 <h3 align="left">Book your appointment:</h3>
 <p align="left">
   <a href="https://www.fiverr.com/deeptharanaweer" target="_blank">
@@ -58,4 +59,8 @@
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/adobe-photoshop-icon.png" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/019/016/821/original/adobe-lightroom-icon-free-png.png" alt="xd" width="40" height="40"/> </a> </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deeptha99&show_icons=true&locale=en&layout=compact" alt="deeptha99" /></p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deeptha99&show_icons=true&locale=en" alt="deeptha99" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deeptha99&" alt="deeptha99" /></p>
