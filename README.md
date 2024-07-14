@@ -1,4 +1,4 @@
-![logo](https://github.com/Deeptha99/Deeptha99/blob/main/1683009427444.png)
+![logo](https://github.com/deeptharanaweera/deeptharanaweera/blob/main/1683009427444.png)
 <h1 align="center">Hi 👋, I'm Deeptha Ranaweera</h1>
 <h3 align="left">I have 2 year experience about programming languages, software development, mobile app development and web development.</h3>
 
@@ -61,6 +61,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deeptha99&show_icons=true&locale=en" alt="deeptha99" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deeptharanaweera&show_icons=true&locale=en" alt="deeptha99" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deeptha99&" alt="deeptha99" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deeptharanaweera&" alt="deeptha99" /></p>
