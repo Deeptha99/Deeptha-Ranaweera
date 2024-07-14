@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **deeptharanaweera26@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Deeptha99?tab=repositories](https://github.com/deeptharanaweera?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/deeptharanaweera?tab=repositories](https://github.com/deeptharanaweera?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,7 +27,7 @@
 <a href="https://discord.gg/Deeptha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Deeptha" height="30" width="40" /></a>
 </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=deeptha99&show_icons=true&locale=en&layout=compact" alt="deeptha99" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=deeptharanaweera&show_icons=true&locale=en&layout=compact" alt="deeptharanaweera" /></p>
 <h3 align="left">Book your appointment:</h3>
 <p align="left">
   <a href="https://www.fiverr.com/deeptharanaweer" target="_blank">
