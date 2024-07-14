@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **deeptharanaweera26@gmail.com**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Deeptha99?tab=repositories](https://github.com/Deeptha99?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Deeptha99?tab=repositories](https://github.com/deeptharanaweera?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
